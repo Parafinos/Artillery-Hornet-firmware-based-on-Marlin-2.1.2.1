@@ -5,7 +5,7 @@ Download the Firmware and the Tools.
 
 ## Software
 
-sdfsdfsdfsdfsdf
+Watch this Guide how to use the Software https://www.youtube.com/watch?v=xj34HMd0JtA&t=486s
 
 ## Download Links
 
